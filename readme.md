@@ -5,7 +5,7 @@
 
 ## Running petclinic locally
 ```
-git clone https://github.com/spring-petclinic/spring-petclinic-angularjs.git
+git clone https://github.com/KristofVanKriekingen1337/spring-petclinic-angularjs.git
 cd spring-petclinic-angularjs
 ./mvnw clean install
 cd spring-petclinic-server
@@ -16,8 +16,6 @@ You can then access petclinic here: http://localhost:8080/
 
 <img width="782" alt="spring-petclinic" src="https://cloud.githubusercontent.com/assets/838318/19653851/61c1986a-9a16-11e6-8b94-03fd7f775bb3.png">
 
-## In case you find a bug/suggested improvement for Spring Petclinic
-Our issue tracker is available here: https://github.com/spring-petclinic/spring-petclinic-angularjs/issues
 
 ## Database configuration
 
